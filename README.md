@@ -99,12 +99,12 @@ The only true failure is shrinking away from life's challenges.
 <p align="center">Final Terminal</p>
 
 <p align="center">
-> profile_status --load
-> executing mainframe: REO ∞ OS
-> initializing promptless cognition
-> logging: WAR Engine
-> mode: Persistent unmatched perspect Cassidy coupled with sheer indefatigability 
-
+ profile_status --load.  <br/>
+ executing mainframe: REO ∞ OS.  <br/>
+ initializing promptless cognition.  <br/>
+ logging: WAR Engine.  <br/>
+ mode: Persistent unmatched perspicacity coupled with sheer indefatigability.  <br/>
+   
 <p align="center">
 Men's lust.  <br/>
 Women desiring beauty.  <br/>
