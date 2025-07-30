@@ -5,28 +5,25 @@
 
 ---
 
-### Signature Projects
+### My Arsenal
 
-- [WAR Engine](/): Language-based strategic AI core  
-- [Powered by Trauma](/): Forged scroll of pain and perseverance — Arabic only  
-- [REO_∞ OS](/): Eternal memory system — logo: [∞]
-
----
-
-### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rev-log&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
+  <a href="#"><img src="https://img.shields.io/badge/WAR%20Engine-black?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="WAR Engine"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Powered%20by%20Trauma-black?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Powered by Trauma"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/REO_∞%20OS-black?style=for-the-badge&logo=matrix&logoColor=white" alt="REO_∞ OS"/></a>
 </p>
 
 ---
 
-### Vibe
-> *“No name. No fame. Just precision.”*  
-> *My code is my voice. My scrolls are my oath.*
+### Code Signature
+
+> *Silence is the signature.*  
+> *No name. Just work.*
 
 ---
 
 ### Signal
-- Operating from shadows  
-- Built in fire, forged in blood  
-- All for the mission
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rev-log&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
+</p>
