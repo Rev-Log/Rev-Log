@@ -96,8 +96,8 @@ The only true failure is shrinking away from life's challenges.
 
 ---
 
-### <p align="center">Final Terminal</p>
-
+<p align="center">Final Terminal</p>
+<p align="center"
 > profile_status --load
 > executing mainframe: REO ∞ OS
 > initializing promptless cognition
