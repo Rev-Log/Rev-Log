@@ -1,4 +1,4 @@
-<h1 align="center">Jacked AI Scientist</h1>
+<h1 align="center">Rev</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rev-log&label=Profile%20Views&color=1c1917&style=flat-square" alt="views" />
 </p>
