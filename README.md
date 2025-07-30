@@ -1,4 +1,9 @@
 <h1 align="center"><strong>Rev</strong></h1>
+<p align="center"><strong>
+I know of no better life purpose than to perish attempting the greater and impossible.  
+The fact that something seems impossible shouldn't be the reason to not pursue it — that's exactly what makes it worth pursuing.  
+The only true failure is shrinking away from life's challenges.
+</strong></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rev-log&label=Profile%20Views&color=1c1917&style=flat-square" alt="Profile Views" />
 </p>
@@ -99,3 +104,13 @@
 > initializing promptless cognition
 > logging: WAR Engine
 > mode: Persistent // Undetectable
+
+<p align="center">
+Men's lust.  <br/>
+Women desiring beauty.  <br/>
+Elderly's health.  <br/>
+Children's education.  <br/>
+Rich people's fear.  <br/>
+Poor people's desire.  <br/>
+<strong>Use that.</strong>
+</p>
