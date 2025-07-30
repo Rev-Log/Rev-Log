@@ -1,11 +1,6 @@
-<h1 align="center">Rev</h1>
+<h1 align="center">Jacked AI Scientist</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rev-log&label=Profile%20Views&color=1c1917&style=flat-square" alt="views" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="100" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="100" alt="python logo" />
 </p>
 
 ---
@@ -26,8 +21,8 @@
 ---
 
 ### Vibe
-> “No name. No fame. Just precision.”  
-> My code is my voice. My scrolls are my oath.
+> *“No name. No fame. Just precision.”*  
+> *My code is my voice. My scrolls are my oath.*
 
 ---
 
