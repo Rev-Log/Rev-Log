@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rev-log&label=Profile%20Views&color=1c1917&style=flat-square" alt="Profile Views" />
 </p>
+<p align="center"><em>was never an option</em></p>
 
 ---
 
@@ -22,7 +23,31 @@
 ### <p align="center">SHADOW STATS</p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rev-log&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rev-log&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rev-log&layout=compact&theme=graywhite&hide_border=true&langs_count=5&hide=html,css,java" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rev-log&theme=graywhite" />
+</p>
+
+---
+
+### <p align="center">FAVORITE TOOLS & TECH</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-English-0a0a0a?style=for-the-badge&logo=english&logoColor=white" alt="English Language" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -54,8 +79,14 @@
 > They won’t know who did it.  
 > But they’ll know **Rev** was here.
 
+---
+
+### <p align="center">SUPPORT THE SIGNAL</p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rev-log&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/rev-log?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/rev-log?style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 ---
