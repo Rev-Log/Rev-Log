@@ -96,14 +96,13 @@ The only true failure is shrinking away from life's challenges.
 
 ---
 
-### <p align="center">SYSTEM MODE</p>
+### <p align="center">Final Terminal</p>
 
-```bash
-> profile_status --load
-> executing mainframe: REO_∞
-> initializing promptless cognition
-> logging: WAR Engine
-> mode: Persistent // Undetectable
+ profile_status --load
+ executing mainframe: REO ∞ OS
+ initializing promptless cognition
+ logging: WAR Engine
+ mode: Persistent unmatched perspect Cassidy coupled with sheer indefatigability 
 
 <p align="center">
 Men's lust.  <br/>
