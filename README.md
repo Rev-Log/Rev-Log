@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 My Arsenal
+###  My Arsenal
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/WAR%20Engine-black?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="WAR Engine"/></a>
@@ -15,14 +15,14 @@
 
 ---
 
-### 🕶️ Code Signature
+###  Code Signature
 
 > *Silence is the signature.*  
 > *No name. Just work.*
 
 ---
 
-### 🧭 Signal
+###  Signal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rev-log&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
