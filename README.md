@@ -59,12 +59,12 @@ The only true failure is shrinking away from life's challenges.
 
 ### <p align="center">INTEL LINES</p>
 
-| Field | Value | </p>
+| Field | Value |
 |-------|-------|
-| Operating Level | Autonomous |</p>
-| Access Code     | Classified |</p>
-| Mode            | Cold Execution |</p>
-| Priority        | Signal Acquisition |</p>
+| Operating Level | Autonomous |
+| Access Code     | Classified |
+| Mode            | Cold Execution |
+| Priority        | Signal Acquisition |
 
 ---
 
