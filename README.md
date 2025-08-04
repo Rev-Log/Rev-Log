@@ -99,7 +99,7 @@ The only true failure is shrinking away from life's challenges.
 <p align="center">Final Terminal</p>
 
 <p align="center">
- profile_status --load.  <br/>
+ profile_status: load.  <br/>
  executing mainframe: REO ∞ OS.  <br/>
  initializing promptless cognition.  <br/>
  logging: WAR Engine.  <br/>
