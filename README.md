@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Rev</strong></h1>
 <p align="center"><strong>
-I know of no better life purpose than to perish attempting the greater and impossible.  
+I know of no better life purpose than to perish attempting the great and impossible.  
 The fact that something seems impossible shouldn't be the reason to not pursue it — that's exactly what makes it worth pursuing.  
 The only true failure is shrinking away from life's challenges.
 </strong></p>
